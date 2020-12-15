@@ -40,7 +40,7 @@
     "Increases own debuff resistance by 15%",
     "Increases own Quick performance by 12%"
   ],
-  "Amakusa Shir\u014d": [
+  "Amakusa Shirō": [
     "Increases own debuff resistance by 20%"
   ],
   "Anastasia Nikolaevna Romanova": [
@@ -50,7 +50,7 @@
   ],
   "Angra Mainyu": [
     "Increases own NP generation rate when taking damage by 20%",
-    "Reduces party's (including sub members) debuff resistance by 10% except themselves. [Demerit]",
+    "Reduces party's (including sub members) debuff resistance by 10% except themselves",
     "Increases own critical damage by 10%",
     "Charges own NP gauge by 2% every turn"
   ],
@@ -63,7 +63,7 @@
   ],
   "Antonio Salieri": [
     "Increases own NP generation rate when taking damage by 16%",
-    "Reduces party's (including sub members) debuff resistance by 6% except themselves. [Demerit]",
+    "Reduces party's (including sub members) debuff resistance by 6% except themselves",
     "Increases own critical damage by 8%",
     "Charges own NP gauge by 3.3% every turn"
   ],
@@ -140,7 +140,7 @@
     "Increases own debuff success rate by 12%",
     "Increases own Arts performance by 10%"
   ],
-  "Ashiya D\u014dman": [
+  "Ashiya Dōman": [
     "No effect",
     "Increases own debuff success rate by 10%",
     "Increases own debuff resistance by 20%",
@@ -180,7 +180,7 @@
   ],
   "Avenger of Shinjuku": [
     "Increases own NP generation rate when taking damage by 20%",
-    "Reduces party's (including sub members) debuff resistance by 10% except themselves. [Demerit]",
+    "Reduces party's (including sub members) debuff resistance by 10% except themselves",
     "Increases own critical damage by 8%",
     "Charges own NP gauge by 3.5% every turn"
   ],
@@ -188,13 +188,13 @@
     "Increases own debuff success rate by 9%",
     "Increases own Arts performance by 8%"
   ],
-  "A\u015bvatth\u0101man": [
+  "Aśvatthāman": [
     "Increases own damage by 210",
     "Increases own critical damage by 12%",
     "Increases own debuff resistance by 20%",
     "Increases own Buster performance by 5%",
     "Increases own critical damage of Buster Cards by 10%",
-    "Grants self Mental Debuff Immunity."
+    "Grants self Mental Debuff Immunity"
   ],
   "B B": [
     "Increases own debuff success rate by 10%",
@@ -316,19 +316,19 @@
   "Consort Yu (Lancer)": [
     "Increases own debuff resistance by 17.5%"
   ],
-  "C\u00fa Chulainn": [
+  "Cú Chulainn": [
     "Increases own damage by 175",
     "Increases own debuff resistance by 15%"
   ],
-  "C\u00fa Chulainn (Alter)": [
+  "Cú Chulainn (Alter)": [
     "Increases own damage by 150",
     "Increases own Buster performance by 6%"
   ],
-  "C\u00fa Chulainn (Caster)": [
+  "Cú Chulainn (Caster)": [
     "Increases own damage by 175",
     "Increases own Arts performance by 8%"
   ],
-  "C\u00fa Chulainn (Prototype)": [
+  "Cú Chulainn (Prototype)": [
     "Increases own damage by 175",
     "Increases own debuff resistance by 15%"
   ],
@@ -341,7 +341,7 @@
   ],
   "Demon King Nobunaga": [
     "Increases own NP generation rate when taking damage by 17.5%",
-    "Reduces party's (including sub members) debuff resistance by 7.5% except themselves. [Demerit]",
+    "Reduces party's (including sub members) debuff resistance by 7.5% except themselves",
     "Increases own critical damage by 2%",
     "Charges own NP gauge by 3.3% every turn"
   ],
@@ -354,7 +354,7 @@
   ],
   "Dioscuri": [
     "Increases own NP generation rate when taking damage by 18%",
-    "Reduces party's (including sub members) debuff resistance by 8% except themselves. [Demerit]",
+    "Reduces party's (including sub members) debuff resistance by 8% except themselves",
     "Increases own Buster performance by 7.5%",
     "Increases own debuff resistance by 20%",
     "Increases own critical damage by 6%",
@@ -383,25 +383,25 @@
     "Increases own debuff resistance by 20%",
     "Increases own Arts performance by 12%"
   ],
-  "Edmond Dant\u00e8s": [
+  "Edmond Dantès": [
     "Increases own NP generation rate when taking damage by 20%",
-    "Reduces party's (including sub members) debuff resistance by 10% except themselves. [Demerit]",
+    "Reduces party's (including sub members) debuff resistance by 10% except themselves",
     "Increases own critical damage by 8%",
     "Charges own NP gauge by 3% every turn"
   ],
   "Edward Teach": [
     "Increases own debuff resistance by 10%"
   ],
-  "Elizabeth B\u00e1thory": [
+  "Elizabeth Báthory": [
     "Increases own debuff resistance by 20%",
     "Increases own Arts performance by 8%"
   ],
-  "Elizabeth B\u00e1thory (Brave)": [
+  "Elizabeth Báthory (Brave)": [
     "No effect",
     "Increases own debuff resistance by 20%",
     "Increases own Arts performance by 6%"
   ],
-  "Elizabeth B\u00e1thory (Halloween)": [
+  "Elizabeth Báthory (Halloween)": [
     "Increases own debuff success rate by 10%",
     "Increases own Arts performance by 8%"
   ],
@@ -428,7 +428,7 @@
     "Increases own critical damage by 11%",
     "Increases own debuff resistance by 20%"
   ],
-  "Fergus mac R\u00f3ich": [
+  "Fergus mac Róich": [
     "Increases own debuff resistance by 17.5%",
     "Increases own Quick performance by 8%"
   ],
@@ -455,7 +455,7 @@
     "Increases own debuff resistance by 10%",
     "Increases own Quick performance by 12%"
   ],
-  "F\u016bma Kotar\u014d": [
+  "Fūma Kotarō": [
     "Increases own critical star generation rate by 10.5%"
   ],
   "Gaius Julius Caesar": [
@@ -499,7 +499,7 @@
   ],
   "Gorgon": [
     "Increases own NP generation rate when taking damage by 18%",
-    "Reduces party's (including sub members) debuff resistance by 8% except themselves. [Demerit]",
+    "Reduces party's (including sub members) debuff resistance by 8% except themselves",
     "Increases own critical damage by 6%",
     "Charges own NP gauge by 3.8% every turn"
   ],
@@ -542,7 +542,7 @@
     "Increases own damage by 200",
     "Increases own Buster performance by 8%"
   ],
-  "Hijikata Toshiz\u014d": [
+  "Hijikata Toshizō": [
     "Increases own Buster performance by 5%"
   ],
   "Himiko": [
@@ -550,17 +550,17 @@
     "Grants self  Poison and  Curse Debuff Immunity",
     "Increases own Arts performance by 10%"
   ],
-  "H\u014dz\u014din Inshun": [
+  "Hōzōin Inshun": [
     "Increases own debuff resistance by 13%"
   ],
-  "Ibaraki D\u014dji": [
+  "Ibaraki Dōji": [
     "Increases own Buster performance by 8%"
   ],
-  "Ibaraki D\u014dji (Lancer)": [
+  "Ibaraki Dōji (Lancer)": [
     "Increases own Buster performance by 4%",
     "Increases own debuff resistance by 15%"
   ],
-  "Ibuki D\u014dji": [
+  "Ibuki Dōji": [
     "Increases own Buster performance by 12%",
     "Reduces own damage taken by 200",
     "Increases own debuff resistance by 20%",
@@ -620,7 +620,7 @@
   ],
   "Jeanne d'Arc (Alter)": [
     "Increases own NP generation rate when taking damage by 18%",
-    "Reduces party's (including sub members) debuff resistance by 8% except themselves. [Demerit]",
+    "Reduces party's (including sub members) debuff resistance by 8% except themselves",
     "Increases own debuff resistance by 25%",
     "Increases own critical damage by 10%",
     "Charges own NP gauge by 4% every turn"
@@ -648,7 +648,7 @@
     "Increases own damage by 225",
     "Grants self  Charm Debuff Immunity",
     "Increases own critical damage by 6%",
-    "Increases own mental debuff resistance by 6%. Increases own Instant-Kill resistance by 6%",
+    "Increases own mental debuff resistance by 6%",
     "Increases own debuff resistance by 20%",
     "Increases own Quick performance by 10%"
   ],
@@ -668,7 +668,7 @@
     "Increases own damage by 100",
     "Increases own debuff resistance by 15%"
   ],
-  "Kat\u014d Danz\u014d": [
+  "Katō Danzō": [
     "Increases own critical star generation rate by 10%"
   ],
   "Kid Gil": [
@@ -759,7 +759,8 @@
     "Increases own Quick performance by 6%",
     "Increases own Quick performance by 6%",
     "Increases own Quick performance by 6%",
-    "Increases party's Bond Points gained by 20%, only during Arc 2 Lostbelt Main Quests.(This passive will not trigger if it is a Support Servant.)"
+    "Increases party's Bond Points gained by 20%, only during Arc 2 Lostbelt Main Quests",
+    "This passive will not trigger if it is a Support Servant.)"
   ],
   "Mecha Eli-chan": [
     "Increases own debuff success rate by 8%",
@@ -813,13 +814,13 @@
     "Charges own NP gauge by 5% every turn",
     "Increases own Arts performance by 6%"
   ],
-  "Minamoto no Raik\u014d": [
+  "Minamoto no Raikō": [
     "Increases own damage by 150",
     "Increases own Buster performance by 12%",
     "Increases own debuff resistance by 12.5%",
     "Increases own Quick performance by 11%"
   ],
-  "Minamoto no Raik\u014d (Lancer)": [
+  "Minamoto no Raikō (Lancer)": [
     "Increases own damage by 150",
     "Increases own Buster performance by 6%",
     "Increases own debuff resistance by 15%",
@@ -860,10 +861,10 @@
   "Murasaki Shikibu (Rider)": [
     "Increases own Quick performance by 9%"
   ],
-  "Musashib\u014d Benkei": [
+  "Musashibō Benkei": [
     "Increases own debuff resistance by 15.5%"
   ],
-  "Mysterious Alter Ego \u039b": [
+  "Mysterious Alter Ego Λ": [
     "Increases own damage by 200",
     "Increases own debuff resistance by 20%",
     "No effect",
@@ -895,7 +896,7 @@
     "Increases own debuff resistance by 15%",
     "Increases own Quick performance by 6%"
   ],
-  "Napol\u00e9on": [
+  "Napoléon": [
     "Increases own critical damage by 6%",
     "Increases own debuff resistance by 15%"
   ],
@@ -960,22 +961,22 @@
     "Grants self Great Witch's  Pig Transformation Debuff Immunity",
     "Increases own Arts performance by 10%"
   ],
-  "Okada Iz\u014d": [
+  "Okada Izō": [
     "Increases own critical star generation rate by 8%"
   ],
-  "Okita J S\u014dji": [
+  "Okita J Sōji": [
     "Gains 2 critical stars every turn",
     "Increases own debuff resistance by 2%",
     "Increases own debuff resistance by 15%",
-    "Reduces own Instant-Kill resistance by 10%. [Demerit]",
+    "Reduces own Instant-Kill resistance by 10%",
     "Increases own critical star generation rate by 8%",
-    "Reduces own Instant-Kill resistance by 10%. [Demerit]"
+    "Reduces own Instant-Kill resistance by 10%"
   ],
-  "Okita S\u014dji": [
+  "Okita Sōji": [
     "Increases own debuff resistance by 10%",
     "Increases own Quick performance by 2%"
   ],
-  "Okita S\u014dji (Alter)": [
+  "Okita Sōji (Alter)": [
     "Increases own critical damage by 10%",
     "Increases own debuff resistance by 17.5%"
   ],
@@ -986,7 +987,7 @@
   "Osakabehime": [
     "Increases own damage by 150",
     "Increases own critical star generation rate by 8%",
-    "Reduces own debuff resistance by 10%. [Demerit]",
+    "Reduces own debuff resistance by 10%",
     "Increases own Arts performance by 11%"
   ],
   "Osakabehime (Archer)": [
@@ -1071,23 +1072,23 @@
     "Increases own critical damage by 9%",
     "Increases own debuff resistance by 20%"
   ],
-  "Ry\u014dgi Shiki (Assassin)": [
+  "Ryōgi Shiki (Assassin)": [
     "Increases own critical damage by 10%",
     "Increases own critical star generation rate by 6%"
   ],
-  "Ry\u014dgi Shiki (Saber)": [
+  "Ryōgi Shiki (Saber)": [
     "Increases own Quick performance by 6%",
     "Increases own Arts performance by 6%",
     "Increases own Buster performance by 6%",
     "Increases own critical damage by 6%",
-    "Increases own mental debuff resistance by 6%. Increases own Instant-Kill resistance by 6%",
+    "Increases own mental debuff resistance by 6%",
     "Increases own debuff resistance by 20%"
   ],
-  "Sait\u014d Hajime": [
+  "Saitō Hajime": [
     "Increases own critical damage by 6%",
     "Increases own debuff resistance by 12.5%"
   ],
-  "Sakamoto Ry\u014dma": [
+  "Sakamoto Ryōma": [
     "Increases own damage by 170",
     "Increases own debuff resistance by 15%",
     "Increases own Quick performance by 11%"
@@ -1102,25 +1103,25 @@
   "Salome": [
     "Increases own Buster performance by 5.5%"
   ],
-  "Sasaki Kojir\u014d": [
+  "Sasaki Kojirō": [
     "Increases own critical star generation rate by 4%"
   ],
   "Scheherazade": [
     "Increases own Arts performance by 11.5%"
   ],
-  "Sc\u00e1thach": [
+  "Scáthach": [
     "Increases own debuff resistance by 20%"
   ],
-  "Sc\u00e1thach (Assassin)": [
+  "Scáthach (Assassin)": [
     "Increases own critical star generation rate by 2%"
   ],
-  "Sc\u00e1thach-Ska\u00f0i": [
+  "Scáthach-Skaði": [
     "Increases own damage by 250",
     "Increases own debuff resistance by 25%",
     "Increases own debuff success rate by 10%",
     "Increases own Arts performance by 12%"
   ],
-  "Sei Sh\u014dnagon": [
+  "Sei Shōnagon": [
     "Increases own critical star absorption of  Quick Cards by 10%",
     "Increases own debuff resistance by 15%",
     "Increases own  Charm debuff resistance by 100%",
@@ -1132,16 +1133,17 @@
     "Increases own critical star generation rate by 6.5%",
     "Increases own Arts performance by 12%"
   ],
-  "Sessh\u014din Kiara": [
+  "Sesshōin Kiara": [
     "Increases own critical damage by 8%",
     "Increases own critical damage by 2%",
-    "Increases own mental debuff resistance by 2%. Increases own Instant-Kill resistance by 2%",
+    "Increases own mental debuff resistance by 2%",
     "Increases own defense against Humanoid enemies by 16%",
-    "Grants self attack advantage against  Ruler class.(Deals 1.5x damage against them.)"
+    "Grants self attack advantage against  Ruler class",
+    "Deals 1.5x damage against them.)"
   ],
-  "Sessh\u014din Kiara (Moon Cancer)": [
+  "Sesshōin Kiara (Moon Cancer)": [
     "Increases own critical damage by 2%",
-    "Increases own mental debuff resistance by 2%. Increases own Instant-Kill resistance by 2%",
+    "Increases own mental debuff resistance by 2%",
     "Increases own defense against Humanoid enemies by 14%",
     "Increases own NP damage by 12%",
     "Increases own Arts performance by 12%"
@@ -1152,11 +1154,11 @@
   "Shi Huang Di": [
     "Increases own debuff resistance by 18%"
   ],
-  "Shuten D\u014dji": [
+  "Shuten Dōji": [
     "Increases own damage by 150",
     "Increases own critical star generation rate by 6%"
   ],
-  "Shuten D\u014dji (Caster)": [
+  "Shuten Dōji (Caster)": [
     "Increases own damage by 150",
     "Increases own debuff success rate by 8%",
     "Increases own Arts performance by 8%"
@@ -1193,7 +1195,7 @@
   ],
   "Space Ishtar": [
     "Increases own NP generation rate when taking damage by 22%",
-    "Reduces party's (including sub members) debuff resistance by 12% except themselves. [Demerit]",
+    "Reduces party's (including sub members) debuff resistance by 12% except themselves",
     "Increases own damage by 270",
     "Increases own debuff resistance by 27%",
     "Increases own critical damage by 6%",
@@ -1213,7 +1215,7 @@
   "Super Orion": [
     "Increases own damage by 175",
     "Reduces own damage taken by 175",
-    "Grants self Toxic status. [Demerit](Increases Poison damage on self by 20%.)",
+    "Grants self Toxic status",
     "Increases own critical damage by 12%"
   ],
   "Suzuka Gozen": [
@@ -1233,7 +1235,7 @@
     "Increases own Quick performance by 10%",
     "Increases own Arts performance by 10%"
   ],
-  "Tawara T\u014dta": [
+  "Tawara Tōta": [
     "Increases own critical damage by 8%",
     "Increases own debuff resistance by 15%"
   ],
@@ -1347,7 +1349,7 @@
     "Increases own damage by 125",
     "Increases own Arts performance by 11%"
   ],
-  "Yagy\u016b Munenori": [
+  "Yagyū Munenori": [
     "Increases own debuff resistance by 15%",
     "Increases own Quick performance by 8%"
   ],
